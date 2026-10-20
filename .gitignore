@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+Screenshot*.png
+hud.png
+mockup.png
